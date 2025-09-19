@@ -76,6 +76,7 @@ public class MenuController {
         System.out.println("gigi");
         System.out.println("jiji");
         System.out.println("gigi");
+        System.out.println("gigi");
         
         return "menu";
     }
