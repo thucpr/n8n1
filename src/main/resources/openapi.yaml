@@ -70,3 +70,4 @@ components:
         role:
           type: string
           example: "admin"
+
