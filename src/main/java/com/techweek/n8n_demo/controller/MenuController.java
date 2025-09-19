@@ -41,6 +41,7 @@ public class MenuController {
         model.addAttribute("categories", categories);
         model.addAttribute("selectedCategory", category);
         model.addAttribute("searchTerm", search);
+        System.out.println("hihi");
         
         return "menu";
     }
