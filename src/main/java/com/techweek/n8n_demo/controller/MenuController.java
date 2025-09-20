@@ -88,6 +88,7 @@ public class MenuController {
         System.out.println("hihih");
         System.out.println("hihih");
         System.out.println("hihih");
+        System.out.println("kaka");
         
         return "menu";
     }
